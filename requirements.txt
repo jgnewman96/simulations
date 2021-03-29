@@ -61,7 +61,7 @@ ptyprocess==0.6.0 ; os_name != 'nt'
 py==1.8.1
 pydantic==1.5.1
 pydeck==0.3.1
-pygments==2.6.1
+pygments==2.7.4
 pymc3==3.8
 pyparsing==2.4.7
 pyrsistent==0.16.0
